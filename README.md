@@ -7,5 +7,5 @@ Explainable AI (XAI) research in human-agent collaboration has relied on hand-cr
 
 ### Contact
 
-If you'd like to collaborate or have any questions, please contact me at:
+If you have any questions or comments, please contact me at:
 ```mfernandes@inf.puc-rio.br``` or ```mateuslevisimoes@gmail.com```!
